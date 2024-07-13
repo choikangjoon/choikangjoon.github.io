@@ -2,7 +2,7 @@
     "pageTitle": "나만의 동물상 테스트",
     "mainTitle": "난 무슨 동물상일까",
     "subtitle": "얼굴로 보는 인공지능 동물상 테스트",
-    "footerText": "&copy; 태영테크 2024. All Rights Reserved.",
+    "footerText": "&copy; 강준테크 2024. All Rights Reserved.",
     
     "modelUrl": "https://teachablemachine.withgoogle.com/models/Xuhv32r7W/",
     "classDetails": [
